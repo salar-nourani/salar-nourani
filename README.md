@@ -60,5 +60,5 @@ Infrastructure Automation Engineer
 ## Contact
 
 Email: salar.noorani68@gmail.com  
-LinkedIn: https://linkedin.com/in/salar.nourani  
+LinkedIn: https://linkedin.com/in/salar-nourani  
 GitHub: https://github.com/salar-nourani
